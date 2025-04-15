@@ -1,0 +1,1251 @@
+1	|	all	|		|	synonym	|
+1	|	root	|		|	scientific name	|
+2759	|	Eucarya	|		|	synonym	|
+2759	|	Eucaryotae	|		|	synonym	|
+2759	|	Eukarya	|		|	synonym	|
+2759	|	Eukaryota	|		|	scientific name	|
+2759	|	Eukaryotae	|		|	synonym	|
+2759	|	eucaryotes	|		|	genbank common name	|
+2759	|	eukaryotes	|		|	common name	|
+2759	|	eukaryotes	|		|	blast name	|
+6072	|	Eumetazoa	|		|	scientific name	|
+7711	|	Chordata	|		|	scientific name	|
+7711	|	chordates	|		|	genbank common name	|
+7711	|	chordates	|		|	blast name	|
+7742	|	Vertebrata	|		|	scientific name	|
+7742	|	vertebrates	|		|	genbank common name	|
+7742	|	vertebrates	|		|	blast name	|
+7776	|	Gnathostomata	|		|	scientific name	|
+7776	|	jawed vertebrates	|		|	genbank common name	|
+8287	|	Sarcopterygii	|		|	scientific name	|
+9347	|	Eutheria	|		|	scientific name	|
+9347	|	Placentalia	|		|	synonym	|
+9347	|	eutherian mammals	|		|	common name	|
+9347	|	placental mammals	|		|	common name	|
+9347	|	placentals	|		|	genbank common name	|
+9347	|	placentals	|		|	blast name	|
+9443	|	Primata	|		|	synonym	|
+9443	|	Primates	|		|	scientific name	|
+9443	|	primate	|		|	equivalent name	|
+9443	|	primates	|		|	blast name	|
+9445	|	Lemuridae	|		|	scientific name	|
+9445	|	lemurs	|		|	genbank common name	|
+9446	|	Lemur	|		|	scientific name	|
+9447	|	Lemur catta	|		|	scientific name	|
+9447	|	Ring-tailed lemur	|		|	genbank common name	|
+9452	|	Lepilemur	|		|	scientific name	|
+9453	|	Lepilemur mustelinus	|		|	scientific name	|
+9453	|	Lepilemur mustellinus	|		|	misspelling	|
+9453	|	weasel lemur	|		|	genbank common name	|
+9453	|	weasel sportive lemur	|		|	common name	|
+9454	|	Varecia	|		|	scientific name	|
+9455	|	Lemur variegatus	|		|	synonym	|
+9455	|	Varecia variegata	|		|	scientific name	|
+9455	|	ruffed lemur	|		|	genbank common name	|
+9455	|	variegated lemur	|		|	common name	|
+9459	|	Cheirogaleus	|		|	scientific name	|
+9460	|	Cheirogaleus medius	|		|	scientific name	|
+9460	|	fat-tailed dwarf lemur	|		|	genbank common name	|
+9461	|	Loridae	|		|	synonym	|
+9461	|	Lorisidae	|		|	scientific name	|
+9461	|	bushbabies	|		|	common name	|
+9461	|	lorises	|		|	genbank common name	|
+9462	|	Galago	|		|	scientific name	|
+9463	|	Galago crassicaudatus	|		|	synonym	|
+9463	|	Otolemur crassicaudatus	|		|	scientific name	|
+9463	|	greater galago	|		|	common name	|
+9463	|	thick-tailed bush baby	|		|	genbank common name	|
+9463	|	thick-tailed galago	|		|	common name	|
+9464	|	Galago sp.	|		|	scientific name	|
+9464	|	bush baby	|		|	genbank common name	|
+9465	|	Galago senegalensis	|		|	scientific name	|
+9465	|	Senegal galago	|		|	genbank common name	|
+9465	|	northern lesser bushbaby	|		|	common name	|
+9467	|	Loris	|		|	scientific name	|
+9468	|	Loris tardigradus	|		|	scientific name	|
+9468	|	slender loris	|		|	genbank common name	|
+9469	|	Nycticebus	|		|	scientific name	|
+9470	|	Nycticebus coucang	|		|	scientific name	|
+9470	|	slow loris	|		|	genbank common name	|
+9471	|	Perodicticus	|		|	scientific name	|
+9471	|	Perodictus	|		|	misspelling	|
+9472	|	Perodicticus potto	|		|	scientific name	|
+9472	|	potto	|		|	genbank common name	|
+9473	|	Perodicticus potto edwarsi	|		|	scientific name	|
+9475	|	Tarsiidae	|		|	scientific name	|
+9475	|	tarsiers	|		|	genbank common name	|
+9476	|	Tarsius	|		|	scientific name	|
+9476	|	tarsier	|		|	common name	|
+9477	|	Horsfield's tarsier	|		|	genbank common name	|
+9477	|	Tarsius bancanus	|		|	scientific name	|
+9477	|	Western tarsier	|		|	common name	|
+9478	|	Philippine tarsier	|		|	genbank common name	|
+9478	|	Tarsius syrichta	|		|	scientific name	|
+9479	|	New World monkeys	|		|	genbank common name	|
+9479	|	Platyrrhini	|		|	scientific name	|
+9479	|	monkey	|		|	common name	|
+9479	|	monkeys	|		|	common name	|
+9480	|	Callithricidae	|		|	synonym	|
+9480	|	Callitrichidae	|		|	synonym	|
+9480	|	Callitrichinae	|		|	scientific name	|
+9480	|	marmosets and tamarins	|		|	genbank common name	|
+9481	|	Callithrix	|		|	scientific name	|
+9481	|	Cebuella	|		|	synonym	|
+9481	|	Mico	|		|	includes	|
+9482	|	Callithrix argentata	|		|	scientific name	|
+9482	|	Callithrix melanura	|		|	synonym	|
+9482	|	black-tailed marmoset	|		|	genbank common name	|
+9482	|	silvery marmoset	|		|	common name	|
+9483	|	Callithrix jacchus	|		|	scientific name	|
+9483	|	Callithrix jacchus jacchus	|		|	synonym	|
+9483	|	common marmoset	|		|	common name	|
+9483	|	white ear-tufted marmoset	|		|	common name	|
+9483	|	white-tufted-ear marmoset	|		|	genbank common name	|
+9485	|	Callithrix sp.	|		|	scientific name	|
+9486	|	Saguinus	|		|	scientific name	|
+9487	|	Saguinus fuscicollis	|		|	scientific name	|
+9487	|	brown-headed tamarin	|		|	genbank common name	|
+9487	|	saddle-backed tamarin	|		|	common name	|
+9487	|	saddlebacked tamarin	|		|	common name	|
+9488	|	Saguinus mystax	|		|	scientific name	|
+9488	|	black-chested mustached tamarin	|		|	common name	|
+9488	|	moustached tamarin	|		|	genbank common name	|
+9489	|	Saguinus nigricollis	|		|	scientific name	|
+9489	|	black-and-red tamarin	|		|	genbank common name	|
+9489	|	black-mantled tamarin	|		|	common name	|
+9490	|	Saguinus oedipus	|		|	scientific name	|
+9490	|	Sanguinus oedipus	|		|	misspelling	|
+9490	|	cotton-top tamarin	|		|	genbank common name	|
+9491	|	Saguinus imperator	|		|	scientific name	|
+9491	|	emperor tamarin	|		|	common name	|
+9491	|	tamarin	|		|	genbank common name	|
+9493	|	Callithrix pygmaea	|		|	scientific name	|
+9493	|	Cebuella pygmaea	|		|	synonym	|
+9493	|	pygmy marmoset	|		|	genbank common name	|
+9494	|	Callimico	|		|	scientific name	|
+9495	|	Callimico goeldi	|		|	misspelling	|
+9495	|	Callimico goeldii	|		|	scientific name	|
+9495	|	Goeldi's marmoset	|		|	genbank common name	|
+9495	|	Goeldi's monkey	|		|	common name	|
+9495	|	Midas goeldii	|		|	synonym	|
+9498	|	Cebidae	|		|	scientific name	|
+9499	|	Alouatta	|		|	scientific name	|
+9499	|	howler monkeys	|		|	genbank common name	|
+9502	|	Alouatta caraya	|		|	scientific name	|
+9502	|	black howler monkey	|		|	genbank common name	|
+9503	|	Allouatta seniculus	|		|	misspelling	|
+9503	|	Alouatta seniculus	|		|	scientific name	|
+9503	|	howler monkey	|		|	genbank common name	|
+9503	|	red howler monkey	|		|	common name	|
+9504	|	Aotus	|		|	scientific name	|
+9504	|	night monkeys	|		|	genbank common name	|
+9505	|	Aotus trivirgatus	|		|	scientific name	|
+9505	|	douroucouli	|		|	genbank common name	|
+9505	|	night monkey	|		|	common name	|
+9505	|	northern night monkey	|		|	common name	|
+9505	|	owl monkey	|		|	common name	|
+9506	|	Ateles	|		|	scientific name	|
+9507	|	Ateles belzebuth	|		|	scientific name	|
+9507	|	long-haired spider monkey	|		|	common name	|
+9507	|	white-bellied spider monkey	|		|	genbank common name	|
+9508	|	Ateles fusciceps	|		|	scientific name	|
+9508	|	Ateles fusiceps	|		|	misspelling	|
+9508	|	Ateles geoffroyi fusciceps	|		|	synonym	|
+9508	|	brown-headed spider monkey	|		|	genbank common name	|
+9509	|	Ateles geoffreyi	|		|	misspelling	|
+9509	|	Ateles geoffroyi	|		|	scientific name	|
+9509	|	Ateles jeoffroyi	|		|	misspelling	|
+9509	|	Central American spider monkey	|		|	common name	|
+9509	|	black-handed spider monkey	|		|	genbank common name	|
+9510	|	Ateles paniscus	|		|	scientific name	|
+9510	|	black spider monkey	|		|	genbank common name	|
+9511	|	Ateles sp.	|		|	scientific name	|
+9511	|	spider monkey	|		|	genbank common name	|
+9513	|	Cebus	|		|	scientific name	|
+9513	|	capuchin monkeys	|		|	genbank common name	|
+9514	|	Cebus albifrons	|		|	scientific name	|
+9514	|	brown pale-fronted capuchin	|		|	common name	|
+9514	|	pale-fronted capuchin	|		|	common name	|
+9514	|	white-fronted capuchin	|		|	genbank common name	|
+9515	|	Cebus apella	|		|	scientific name	|
+9515	|	black-capped capuchin	|		|	common name	|
+9515	|	brown capuchin	|		|	genbank common name	|
+9515	|	brown-capped capuchin	|		|	common name	|
+9516	|	Cebus capucinus	|		|	scientific name	|
+9516	|	white-faced capuchin	|		|	common name	|
+9516	|	white-faced sapajou	|		|	genbank common name	|
+9516	|	white-throated capuchin	|		|	common name	|
+9517	|	Cebus sp.	|		|	scientific name	|
+9518	|	Lagothrix	|		|	scientific name	|
+9518	|	woolly monkeys	|		|	genbank common name	|
+9519	|	Humboldt's woolly monkey	|		|	common name	|
+9519	|	Lagothrix lagothricha	|		|	misspelling	|
+9519	|	Lagothrix lagotricha	|		|	scientific name	|
+9519	|	common woolly monkey	|		|	genbank common name	|
+9520	|	Saimiri	|		|	scientific name	|
+9520	|	Siamiri	|		|	misspelling	|
+9520	|	squirrel monkeys	|		|	genbank common name	|
+9521	|	Saimiri sciureus	|		|	scientific name	|
+9521	|	South American squirrel monkey	|		|	common name	|
+9521	|	common squirrel monkey	|		|	genbank common name	|
+9522	|	Callicebus	|		|	scientific name	|
+9522	|	titi monkeys	|		|	genbank common name	|
+9523	|	Callicebus moloch	|		|	scientific name	|
+9523	|	Dusky titi	|		|	common name	|
+9523	|	Red-bellied titi	|		|	genbank common name	|
+9524	|	Chiropotes	|		|	scientific name	|
+9525	|	Chiropotes satanas	|		|	scientific name	|
+9525	|	black-bearded saki	|		|	genbank common name	|
+9525	|	brown-bearded saki	|		|	common name	|
+9526	|	Catarrhini	|		|	scientific name	|
+9527	|	Cercopithecidae	|		|	scientific name	|
+9527	|	Old World monkeys	|		|	genbank common name	|
+9527	|	monkey	|		|	common name	|
+9527	|	monkeys	|		|	common name	|
+9528	|	Cercopithecinae	|		|	scientific name	|
+9529	|	Cercocebus	|		|	scientific name	|
+9530	|	Cercocebus torquatus	|		|	scientific name	|
+9530	|	red-capped mangabey	|		|	common name	|
+9530	|	red-crowned mangabey	|		|	genbank common name	|
+9530	|	white-collared mangabey	|		|	common name	|
+9531	|	Cercocebus atys	|		|	synonym	|
+9531	|	Cercocebus torquatus atys	|		|	scientific name	|
+9531	|	sooty mangabey	|		|	genbank common name	|
+9532	|	Cercocebus galeritus	|		|	scientific name	|
+9532	|	Tana river mangabey	|		|	genbank common name	|
+9533	|	Cercopithecus	|		|	scientific name	|
+9534	|	African green monkey	|		|	genbank common name	|
+9534	|	African green monkeys	|		|	common name	|
+9534	|	Cercopithecus aethiops	|		|	genbank synonym	|
+9534	|	Ceropithecus aethiops	|		|	misspelling	|
+9534	|	Chlorocebus aethiops	|		|	scientific name	|
+9534	|	green monkey	|		|	common name	|
+9534	|	grivet	|		|	common name	|
+9534	|	savanah monkey	|		|	common name	|
+9534	|	vervet monkey	|		|	common name	|
+9535	|	Cercopithecus cephus	|		|	scientific name	|
+9535	|	moustached monkey	|		|	genbank common name	|
+9536	|	Cercopithecus hamlyni	|		|	scientific name	|
+9536	|	owl-faced monkey	|		|	genbank common name	|
+9537	|	Erythrocebus	|		|	scientific name	|
+9538	|	Cercopithecus patas	|		|	synonym	|
+9538	|	Erythrocebus patas	|		|	scientific name	|
+9538	|	hussar	|		|	common name	|
+9538	|	patas monkey	|		|	common name	|
+9538	|	red guenon	|		|	genbank common name	|
+9539	|	Macaca	|		|	scientific name	|
+9539	|	macaques	|		|	genbank common name	|
+9540	|	Macaca arctoides	|		|	scientific name	|
+9540	|	bear macaque	|		|	common name	|
+9540	|	stump-tailed macaque	|		|	genbank common name	|
+9541	|	Macaca cynomolgus	|		|	synonym	|
+9541	|	Macaca fascicularis	|		|	scientific name	|
+9541	|	Macaca irus	|		|	synonym	|
+9541	|	crab eating macaque	|		|	common name	|
+9541	|	crab-eating macaque	|		|	genbank common name	|
+9541	|	cynomolgus monkey	|		|	common name	|
+9541	|	cynomolgus monkeys	|		|	common name	|
+9541	|	long-tailed macaque	|		|	common name	|
+9542	|	Japanese macaque	|		|	genbank common name	|
+9542	|	Japanese monkey	|		|	common name	|
+9542	|	Macaca fuscata	|		|	scientific name	|
+9543	|	Japanese macaque	|		|	genbank common name	|
+9543	|	Macaca fuscata fuscata	|		|	scientific name	|
+9544	|	Macaca mulatta	|		|	scientific name	|
+9544	|	rhesus macaque	|		|	common name	|
+9544	|	rhesus macaques	|		|	common name	|
+9544	|	rhesus monkey	|		|	genbank common name	|
+9544	|	rhesus monkeys	|		|	common name	|
+9545	|	Macaca nemestrina	|		|	scientific name	|
+9545	|	pig-tailed macaque	|		|	genbank common name	|
+9545	|	pigtail macaque	|		|	common name	|
+9545	|	pigtail monkey	|		|	common name	|
+9546	|	Barbary ape	|		|	genbank common name	|
+9546	|	Barbary macaque	|		|	common name	|
+9546	|	Macaca sylvanus	|		|	scientific name	|
+9548	|	Macaca radiata	|		|	scientific name	|
+9548	|	bonnet macaque	|		|	genbank common name	|
+9549	|	Macaca sp.	|		|	scientific name	|
+9551	|	Assam macaque	|		|	genbank common name	|
+9551	|	Macaca assamenses	|		|	synonym	|
+9551	|	Macaca assamensis	|		|	scientific name	|
+9552	|	Macaca sinica	|		|	scientific name	|
+9552	|	toque macaque	|		|	genbank common name	|
+9552	|	toque monkey	|		|	common name	|
+9553	|	Macaca speciosa	|		|	scientific name	|
+9553	|	stump-tail macaque	|		|	genbank common name	|
+9554	|	Papio	|		|	scientific name	|
+9554	|	baboons	|		|	genbank common name	|
+9555	|	Anubis baboon	|		|	synonym	|
+9555	|	Doguera baboon	|		|	common name	|
+9555	|	Kenya baboon	|		|	common name	|
+9555	|	Papio anubis	|		|	scientific name	|
+9555	|	Papio cynocephalus anubis	|		|	synonym	|
+9555	|	Papio doguera	|		|	synonym	|
+9555	|	Papio hamadryas anubis	|		|	synonym	|
+9555	|	Papio hamadryas doguera	|		|	synonym	|
+9555	|	olive baboon	|		|	genbank common name	|
+9556	|	Papio cynocephalus	|		|	scientific name	|
+9556	|	Papio hamadryas cynocephalus	|		|	synonym	|
+9556	|	yellow baboon	|		|	genbank common name	|
+9557	|	Papio hamadryas	|		|	scientific name	|
+9557	|	Papio hamadryas subsp.	|		|	equivalent name	|
+9557	|	baboon	|		|	common name	|
+9557	|	hamadryas baboon	|		|	genbank common name	|
+9557	|	red baboon	|		|	common name	|
+9557	|	sacred baboon	|		|	synonym	|
+9557	|	western baboon	|		|	common name	|
+9561	|	Mandrillus sphinx	|		|	scientific name	|
+9561	|	Papio sphinx	|		|	synonym	|
+9561	|	mandrill	|		|	genbank common name	|
+9562	|	Papio hamadryas hamadryas	|		|	scientific name	|
+9564	|	Theropithecus	|		|	scientific name	|
+9565	|	Theropithecus gelada	|		|	scientific name	|
+9565	|	gelada baboon	|		|	genbank common name	|
+9567	|	Mandrillus	|		|	scientific name	|
+9567	|	forest baboons	|		|	genbank common name	|
+9568	|	Mandrillus leucophaeus	|		|	scientific name	|
+9568	|	Papio leucophaeus	|		|	synonym	|
+9568	|	drill	|		|	genbank common name	|
+9569	|	Colobinae	|		|	scientific name	|
+9570	|	Colobus	|		|	scientific name	|
+9570	|	black-and-white colobus monkeys	|		|	genbank common name	|
+9572	|	Colobus polykomos	|		|	scientific name	|
+9572	|	king colobus	|		|	genbank common name	|
+9573	|	Presbytis	|		|	scientific name	|
+9576	|	Cercopithecidae gen. sp.	|		|	scientific name	|
+9577	|	Hylobatidae	|		|	scientific name	|
+9577	|	gibbons	|		|	genbank common name	|
+9577	|	lesser apes	|		|	common name	|
+9578	|	Hylobates	|		|	scientific name	|
+9579	|	Hylobates agilis	|		|	scientific name	|
+9579	|	agile gibbon	|		|	genbank common name	|
+9580	|	Hylobates lar	|		|	scientific name	|
+9580	|	common gibbon	|		|	genbank common name	|
+9580	|	white-handed gibbon	|		|	common name	|
+9581	|	Hylobates sp.	|		|	scientific name	|
+9581	|	gibbon	|		|	genbank common name	|
+9582	|	Hylobates agilis albibarbis	|		|	scientific name	|
+9583	|	Hylobates agilis unko	|		|	scientific name	|
+9586	|	Hylobates concolor siki	|		|	synonym	|
+9586	|	Nomascus siki	|		|	scientific name	|
+9586	|	Southern white-cheeked gibbon	|		|	genbank common name	|
+9587	|	Hylobates klossi	|		|	misspelling	|
+9587	|	Hylobates klossii	|		|	scientific name	|
+9587	|	Kloss's gibbon	|		|	genbank common name	|
+9588	|	Borneo gibbon	|		|	common name	|
+9588	|	Hylobates muelleri	|		|	scientific name	|
+9588	|	Mueller's gibbon	|		|	genbank common name	|
+9589	|	Hylobates pileatus	|		|	scientific name	|
+9589	|	pileated gibbon	|		|	genbank common name	|
+9590	|	Hylobates syndactylus	|		|	synonym	|
+9590	|	Symphalangus syndactylus	|		|	scientific name	|
+9590	|	siamang	|		|	genbank common name	|
+9592	|	Gorilla	|		|	scientific name	|
+9593	|	Gorilla	|		|	common name	|
+9593	|	Gorilla gorilla	|		|	scientific name	|
+9593	|	Western Gorilla	|		|	genbank common name	|
+9595	|	Gorilla gorilla gorilla	|		|	scientific name	|
+9595	|	Western lowland gorilla	|		|	genbank common name	|
+9595	|	lowland gorilla	|		|	common name	|
+9596	|	Pan	|		|	scientific name	|
+9596	|	chimpanzees	|		|	genbank common name	|
+9597	|	Pan paniscus	|		|	scientific name	|
+9597	|	bonobo	|		|	common name	|
+9597	|	pygmy chimpanzee	|		|	genbank common name	|
+9598	|	Chimpansee troglodytes	|		|	misspelling	|
+9598	|	Pan troglodytes	|		|	scientific name	|
+9598	|	chimpanzee	|		|	genbank common name	|
+9599	|	Pongo	|		|	scientific name	|
+9600	|	Bornean orangutan	|		|	genbank common name	|
+9600	|	Orang-utan	|		|	common name	|
+9600	|	Orangutan	|		|	common name	|
+9600	|	Pongo pygmaeus	|		|	scientific name	|
+9601	|	Orang-utan	|		|	common name	|
+9601	|	Orangutan	|		|	common name	|
+9601	|	Pongo abelii	|		|	scientific name	|
+9601	|	Pongo pygmaeus abeli	|		|	synonym	|
+9601	|	Pongo pygmaeus abelii	|		|	synonym	|
+9601	|	Sumatran orangutan	|		|	genbank common name	|
+9602	|	Pongo pygmaeus pygmaeus	|		|	scientific name	|
+9603	|	Pongo sp.	|		|	scientific name	|
+9604	|	Hominidae	|		|	scientific name	|
+9604	|	Pongidae	|		|	synonym	|
+9604	|	great apes	|		|	common name	|
+9605	|	Homo	|		|	scientific name	|
+9606	|	Homo sapiens	|		|	scientific name	|
+9606	|	human	|		|	genbank common name	|
+9606	|	man	|		|	common name	|
+13038	|	Daubentonia	|		|	scientific name	|
+13038	|	Daubetonia	|		|	misspelling	|
+13149	|	Microcebus	|		|	scientific name	|
+13513	|	Eulemur	|		|	scientific name	|
+13513	|	Petterus	|		|	synonym	|
+13514	|	Eulemur coronatus	|		|	scientific name	|
+13514	|	Lemur coronatus	|		|	synonym	|
+13514	|	crowned lemur	|		|	genbank common name	|
+13515	|	Eulemur fulvus	|		|	scientific name	|
+13515	|	Lemur fulvus	|		|	synonym	|
+13515	|	Petterus fulvus	|		|	synonym	|
+13515	|	brown lemur	|		|	genbank common name	|
+13556	|	Hapalemur	|		|	scientific name	|
+13557	|	Hapalemur griseus	|		|	scientific name	|
+13557	|	bamboo lemur	|		|	genbank common name	|
+27679	|	Bolivian squirrel monkey	|		|	genbank common name	|
+27679	|	Saimiri boliviensis	|		|	scientific name	|
+27680	|	Eulemur fulvus mayottensis	|		|	scientific name	|
+29089	|	Hylobates concolor	|		|	synonym	|
+29089	|	Nomascus concolor	|		|	scientific name	|
+29089	|	crested gibbon	|		|	genbank common name	|
+30586	|	Midas tamarin	|		|	genbank common name	|
+30586	|	Saguinus midas	|		|	scientific name	|
+30587	|	Leontopithecus	|		|	scientific name	|
+30588	|	Leontopithecus rosalia	|		|	scientific name	|
+30588	|	Leontopithecus rosalia rosalia	|		|	synonym	|
+30588	|	golden lion tamarin	|		|	genbank common name	|
+30589	|	Alouatta palliata	|		|	scientific name	|
+30589	|	mantled howler monkey	|		|	genbank common name	|
+30590	|	Alouatta belcebul	|		|	misspelling	|
+30590	|	Alouatta belzebul	|		|	scientific name	|
+30590	|	Alouatta nigerrima	|		|	synonym	|
+30590	|	black-and-red howler monkey	|		|	genbank common name	|
+30590	|	red-handed howler monkey	|		|	common name	|
+30591	|	Aotus azarae	|		|	synonym	|
+30591	|	Aotus azarai	|		|	scientific name	|
+30591	|	Azara's night monkey	|		|	genbank common name	|
+30592	|	Callicebus torquatus	|		|	scientific name	|
+30592	|	yellow-handed titi	|		|	genbank common name	|
+30593	|	Brachyteles	|		|	scientific name	|
+30594	|	Brachyteles arachnoides	|		|	scientific name	|
+30594	|	muriqui	|		|	common name	|
+30594	|	woolly spider monkey	|		|	genbank common name	|
+30595	|	Cacajao	|		|	scientific name	|
+30596	|	Cacajao calvus	|		|	scientific name	|
+30596	|	red uakari	|		|	genbank common name	|
+30597	|	Pithecia	|		|	scientific name	|
+30597	|	saki monkeys	|		|	genbank common name	|
+30598	|	Pithecia irrorata	|		|	scientific name	|
+30598	|	bald-faced saki	|		|	genbank common name	|
+30598	|	gray monk saki	|		|	common name	|
+30599	|	Indridae	|		|	synonym	|
+30599	|	Indriidae	|		|	scientific name	|
+30600	|	Propithecus	|		|	scientific name	|
+30600	|	sifakas	|		|	genbank common name	|
+30601	|	Propithecus tattersalli	|		|	scientific name	|
+30601	|	Tattersall's sifaka	|		|	genbank common name	|
+30601	|	golden-crowned sifaka	|		|	common name	|
+30602	|	Eulemur macaco	|		|	scientific name	|
+30602	|	Lemur macaco	|		|	synonym	|
+30602	|	Petterus macaco	|		|	synonym	|
+30602	|	black lemur	|		|	genbank common name	|
+30603	|	Eulemur macaco macaco	|		|	scientific name	|
+30608	|	Microcebus murinus	|		|	scientific name	|
+30608	|	gray mouse lemur	|		|	genbank common name	|
+30609	|	Galago moholi	|		|	scientific name	|
+30609	|	South African galago	|		|	genbank common name	|
+30610	|	Otolemur	|		|	scientific name	|
+30610	|	greater bushbabies	|		|	genbank common name	|
+30611	|	Galago garnetti	|		|	synonym	|
+30611	|	Otolemur garnetti	|		|	misspelling	|
+30611	|	Otolemur garnettii	|		|	scientific name	|
+30611	|	small-eared galago	|		|	genbank common name	|
+30612	|	Tarsius sp.	|		|	scientific name	|
+30613	|	Daubentoniidae	|		|	scientific name	|
+30613	|	aye-ayes	|		|	genbank common name	|
+30614	|	Lepilemuridae	|		|	scientific name	|
+30614	|	Megaladapidae	|		|	synonym	|
+30615	|	Cheirogaleidae	|		|	scientific name	|
+30615	|	dwarf and mouse lemurs	|		|	genbank common name	|
+31869	|	Daubentonia madagascarensis	|		|	misspelling	|
+31869	|	Daubentonia madagascariensis	|		|	scientific name	|
+31869	|	aye-aye	|		|	genbank common name	|
+32523	|	Tetrapoda	|		|	scientific name	|
+32523	|	tetrapods	|		|	genbank common name	|
+32524	|	Amniota	|		|	scientific name	|
+32524	|	amniotes	|		|	genbank common name	|
+32525	|	Theria	|		|	scientific name	|
+33154	|	Fungi/Metazoa group	|		|	scientific name	|
+33154	|	Opisthokonta	|		|	synonym	|
+33154	|	opisthokonts	|		|	synonym	|
+33208	|	Animalia	|		|	synonym	|
+33208	|	Metazoa	|		|	scientific name	|
+33208	|	animals	|		|	blast name	|
+33208	|	metazoans	|		|	genbank common name	|
+33208	|	multicellular animals	|		|	common name	|
+33213	|	Bilateria	|		|	scientific name	|
+33316	|	Coelomata	|		|	scientific name	|
+33511	|	Deuterostomia	|		|	scientific name	|
+33548	|	Colobus guereza	|		|	scientific name	|
+33548	|	eastern black-and -white colobus	|		|	common name	|
+33548	|	guereza	|		|	genbank common name	|
+33549	|	Presbytis francoisi	|		|	scientific name	|
+34824	|	Colobus sp.	|		|	scientific name	|
+34824	|	colobus monkeys	|		|	common name	|
+34825	|	Propithecus verreauxi	|		|	scientific name	|
+34825	|	Verreaux's sifaka	|		|	common name	|
+34825	|	white sifaka	|		|	genbank common name	|
+34826	|	Indri	|		|	scientific name	|
+34827	|	Indri indri	|		|	scientific name	|
+34828	|	Eulemur mongoz	|		|	scientific name	|
+34828	|	Lemur mongoz	|		|	synonym	|
+34828	|	mongoose lemur	|		|	genbank common name	|
+34829	|	Eulemur rubriventer	|		|	scientific name	|
+34829	|	Lemur rubriventer	|		|	synonym	|
+34829	|	red-bellied lemur	|		|	genbank common name	|
+34830	|	Allen's squirrel galago	|		|	genbank common name	|
+34830	|	Galago alleni	|		|	scientific name	|
+34830	|	Galagoides alleni	|		|	synonym	|
+34830	|	Sciurocheirus alleni	|		|	synonym	|
+36222	|	Cercocebus aterrimus	|		|	scientific name	|
+36223	|	Cercopithecus ascanius	|		|	scientific name	|
+36223	|	black-cheeked white-nosed monkey	|		|	genbank common name	|
+36224	|	Cercopithecus diana	|		|	scientific name	|
+36224	|	Cercopithecus dianae	|		|	misspelling	|
+36224	|	Diana monkey	|		|	genbank common name	|
+36225	|	Cercopithecus albogularis	|		|	synonym	|
+36225	|	Cercopithecus mitis	|		|	scientific name	|
+36225	|	blue monkey	|		|	genbank common name	|
+36226	|	Cercopithecus mona	|		|	scientific name	|
+36226	|	Mona monkey	|		|	genbank common name	|
+36227	|	Cercopithecus neglectus	|		|	scientific name	|
+36227	|	De Brazza's monkey	|		|	genbank common name	|
+36228	|	Cercopithecus nictitans	|		|	scientific name	|
+36228	|	white-nosed guenon	|		|	genbank common name	|
+36229	|	Papio hamadryas ursinus	|		|	synonym	|
+36229	|	Papio ursinus	|		|	scientific name	|
+36229	|	chacma baboon	|		|	genbank common name	|
+36230	|	Miopithecus	|		|	scientific name	|
+36231	|	Cercopithecus talapoin	|		|	synonym	|
+36231	|	Miopithecus talapoin	|		|	scientific name	|
+36231	|	talapoin	|		|	genbank common name	|
+36232	|	Presbytis cristata	|		|	scientific name	|
+36233	|	Presbytis cristata pyrrhus	|		|	scientific name	|
+36234	|	Ateles paniscus x Ateles fusciceps	|		|	scientific name	|
+36234	|	black spider monkey x brown-headed spider monkey	|		|	genbank common name	|
+36513	|	Japanese monkeys	|		|	scientific name	|
+37010	|	Pan troglodytes schweinfurthii	|		|	scientific name	|
+37011	|	Pan troglodytes troglodytes	|		|	scientific name	|
+37012	|	Pan troglodytes verus	|		|	scientific name	|
+37293	|	Aotus nancymaae	|		|	scientific name	|
+37293	|	Aotus nancymai	|		|	synonym	|
+37293	|	Ma's night monkey	|		|	genbank common name	|
+37294	|	Cebus kaapori	|		|	scientific name	|
+37295	|	Cebus nigrivittatus	|		|	synonym	|
+37295	|	Cebus olivaceus	|		|	scientific name	|
+37295	|	weeper capuchin monkey	|		|	genbank common name	|
+37295	|	weeping capuchin	|		|	common name	|
+37588	|	Brazilian Bare-faced tamarin	|		|	genbank common name	|
+37588	|	Saguinus bicolor	|		|	scientific name	|
+37589	|	Saguinus bicolor bicolor	|		|	scientific name	|
+37589	|	pied bare-faced tamarin	|		|	genbank common name	|
+37767	|	Cercopithecus diana roloway	|		|	scientific name	|
+38020	|	marmosets	|		|	scientific name	|
+38039	|	Pitheciinae	|		|	scientific name	|
+38066	|	Alouattinae	|		|	scientific name	|
+38068	|	Atelinae	|		|	scientific name	|
+38069	|	Callicebinae	|		|	scientific name	|
+38070	|	Cebinae	|		|	scientific name	|
+38071	|	unclassified Cebidae	|		|	scientific name	|
+39432	|	Bolivian squirrel monkey	|		|	genbank common name	|
+39432	|	Saimiri boliviensis boliviensis	|		|	scientific name	|
+39582	|	Propithecus sp.	|		|	scientific name	|
+39582	|	sifaka	|		|	genbank common name	|
+40297	|	Galagidae	|		|	scientific name	|
+40297	|	Galagonidae	|		|	synonym	|
+40297	|	galagos	|		|	genbank common name	|
+40322	|	Eulemur fulvus fulvus	|		|	scientific name	|
+40322	|	Lemur fulvus fulvus	|		|	synonym	|
+40674	|	Mammalia	|		|	scientific name	|
+40674	|	mammals	|		|	genbank common name	|
+40674	|	mammals	|		|	blast name	|
+40843	|	Macaca tonkeana	|		|	scientific name	|
+40843	|	Tonkean macaque	|		|	genbank common name	|
+43147	|	Aotus lemurinus	|		|	scientific name	|
+43147	|	lemurine night monkey	|		|	genbank common name	|
+43777	|	Guianan saki	|		|	common name	|
+43777	|	Pithecia pithecia	|		|	scientific name	|
+43777	|	white-faced saki	|		|	genbank common name	|
+43778	|	Geoffroy's tamarin	|		|	genbank common name	|
+43778	|	Saguinus geoffroyi	|		|	scientific name	|
+43779	|	Nasalis	|		|	scientific name	|
+43780	|	Nasalis larvatus	|		|	scientific name	|
+43780	|	proboscis monkey	|		|	genbank common name	|
+46359	|	Eastern lowland gorilla	|		|	genbank common name	|
+46359	|	Gorilla beringei graueri	|		|	synonym	|
+46359	|	Gorilla gorilla graueri	|		|	scientific name	|
+47177	|	Cheirogaleus major	|		|	scientific name	|
+47177	|	greater dwarf lemur	|		|	genbank common name	|
+47178	|	Eulemur collaris	|		|	synonym	|
+47178	|	Eulemur fulvus collaris	|		|	scientific name	|
+47179	|	Eulemur fulvus rufus	|		|	scientific name	|
+47180	|	Coquerel's mouse lemur	|		|	genbank common name	|
+47180	|	Microcebus coquereli	|		|	synonym	|
+47180	|	Mirza coquereli	|		|	scientific name	|
+47180	|	Mirza coquerelli	|		|	misspelling	|
+48018	|	Saguinus fuscicollis fuscicollis	|		|	scientific name	|
+48019	|	Saguinus fuscicollis melanoleucus	|		|	scientific name	|
+48842	|	Callithrix emiliae	|		|	scientific name	|
+48842	|	Mico emiliae	|		|	synonym	|
+52231	|	Callithrix geoffroyi	|		|	scientific name	|
+52231	|	Callithrix jacchus geoffroyi	|		|	synonym	|
+52231	|	Geoffroy's marmoset	|		|	genbank common name	|
+52232	|	Callithrix humeralifer	|		|	synonym	|
+52232	|	Callithrix humeralifera	|		|	scientific name	|
+52232	|	Callithrix jacchus humeralifer	|		|	synonym	|
+52232	|	Hapale humeralifer	|		|	synonym	|
+52232	|	black and white tassel-ear marmoset	|		|	common name	|
+52232	|	tassel-eared marmoset	|		|	genbank common name	|
+52563	|	Eulemur fulvus albifrons	|		|	scientific name	|
+52563	|	Lemur albifrons	|		|	synonym	|
+54131	|	Angola colobus	|		|	common name	|
+54131	|	Angolan colobus	|		|	genbank common name	|
+54131	|	Colobus angolensis	|		|	scientific name	|
+54132	|	Pygathrix	|		|	scientific name	|
+54133	|	Douc langur	|		|	genbank common name	|
+54133	|	Pygathrix nemaeus	|		|	scientific name	|
+54133	|	dove langur	|		|	common name	|
+54134	|	Allenopithecus	|		|	scientific name	|
+54135	|	Allen's swamp monkey	|		|	genbank common name	|
+54135	|	Allenopithecus nigroviridis	|		|	scientific name	|
+54136	|	Trachypithecus	|		|	scientific name	|
+54136	|	brow-ridged langurs	|		|	common name	|
+54136	|	leaf monkeys	|		|	genbank common name	|
+54137	|	Semnopithecus vetulus	|		|	synonym	|
+54137	|	Trachypithecus vetulus	|		|	scientific name	|
+54137	|	purple-faced langur	|		|	common name	|
+54137	|	purple-faced leaf monkey	|		|	genbank common name	|
+54180	|	Francois' langur	|		|	common name	|
+54180	|	Francois's leaf monkey	|		|	genbank common name	|
+54180	|	Indochinese langur	|		|	common name	|
+54180	|	Trachypithecus francoisi	|		|	scientific name	|
+54181	|	Trachypithecus obscurus	|		|	scientific name	|
+54181	|	dusky leaf monkey	|		|	genbank common name	|
+54181	|	dusky leaf-monkey	|		|	common name	|
+54181	|	spectacled langur	|		|	common name	|
+54600	|	Celebes crested macaque	|		|	genbank common name	|
+54600	|	Macaca nigra	|		|	scientific name	|
+54601	|	Macaca silenus	|		|	scientific name	|
+54601	|	liontail macaque	|		|	genbank common name	|
+54602	|	Macaca thibetana	|		|	scientific name	|
+54602	|	Pere David's macaque	|		|	genbank common name	|
+57118	|	unclassified Primates	|		|	scientific name	|
+57175	|	Aotus nigriceps	|		|	scientific name	|
+57175	|	black-headed night monkey	|		|	genbank common name	|
+57176	|	Aotus vociferans	|		|	scientific name	|
+57176	|	Spix's night monkey	|		|	common name	|
+57176	|	noisy night monkey	|		|	genbank common name	|
+57374	|	Leontopithecus chrysomelas	|		|	scientific name	|
+57374	|	Leontopithecus rosalia chrysomelas	|		|	synonym	|
+57374	|	gold-and-black lion tamarin	|		|	common name	|
+57375	|	Callithrix aurita	|		|	scientific name	|
+57375	|	Callithrix jacchus aurita	|		|	synonym	|
+57375	|	buffy-eared marmoset	|		|	common name	|
+57375	|	white-eared marmoset	|		|	genbank common name	|
+57376	|	Callithrix kuhli	|		|	scientific name	|
+57377	|	Callithrix mauesi	|		|	scientific name	|
+57377	|	Mico mauesi	|		|	synonym	|
+57378	|	Callithrix jacchus penicillata	|		|	synonym	|
+57378	|	Callithrix penicillata	|		|	scientific name	|
+57378	|	black tufted-ear marmoset	|		|	common name	|
+57378	|	black-pencilled marmoset	|		|	genbank common name	|
+58710	|	Leontopithecus chrysopygus	|		|	scientific name	|
+58710	|	Leontopithecus rosalia chrysopygus	|		|	synonym	|
+58710	|	golden-rumped lion tamarin	|		|	genbank common name	|
+60710	|	Cercopithecus aethiops pygerythrus	|		|	synonym	|
+60710	|	Cercopithecus pygerythrus	|		|	genbank synonym	|
+60710	|	Chlorocebus aethiops pygerythrus	|		|	synonym	|
+60710	|	Chlorocebus pygerythrus	|		|	scientific name	|
+60711	|	Cercopithecus aethiops sabaeus	|		|	synonym	|
+60711	|	Cercopithecus sabaeus	|		|	genbank synonym	|
+60711	|	Cercopithecus sabeus	|		|	synonym	|
+60711	|	Chlorocebus aethiops sabaeus	|		|	synonym	|
+60711	|	Chlorocebus sabaeus	|		|	scientific name	|
+60711	|	green monkey	|		|	common name	|
+60712	|	Cercopithecus aethiops tantalus	|		|	synonym	|
+60712	|	Cercopithecus tantalus	|		|	genbank synonym	|
+60712	|	Chlorocebus aethiops tantalus	|		|	synonym	|
+60712	|	Chlorocebus tantalus	|		|	scientific name	|
+61183	|	Papio sp.	|		|	scientific name	|
+61618	|	Phayre's leaf monkey	|		|	genbank common name	|
+61618	|	Trachypithecus phayrei	|		|	scientific name	|
+61621	|	Black snub-nosed monkey	|		|	genbank common name	|
+61621	|	Pygathrix bieti	|		|	synonym	|
+61621	|	Rhinopithecus bieti	|		|	scientific name	|
+61622	|	Pygathrix roxellana	|		|	synonym	|
+61622	|	Rhinopithecus roxellana	|		|	scientific name	|
+61622	|	Rhinopithecus roxellanae	|		|	misspelling	|
+61622	|	golden snub-nosed monkey	|		|	genbank common name	|
+61851	|	Bunopithecus hoolock	|		|	scientific name	|
+61851	|	Hoolock gibbon	|		|	genbank common name	|
+61851	|	Hylobates hoolock	|		|	synonym	|
+61852	|	Hylobates concolor gabriellae	|		|	synonym	|
+61852	|	Hylobates gabriellae	|		|	synonym	|
+61852	|	Nomascus gabriellae	|		|	scientific name	|
+61852	|	Red-cheeked Gibbon	|		|	genbank common name	|
+61852	|	buff-cheeked gibbon	|		|	common name	|
+61853	|	Hylobates concolor leucogenys	|		|	synonym	|
+61853	|	Hylobates leucogenys	|		|	synonym	|
+61853	|	Hylobates leucogenys Ogilby, 1840	|		|	synonym	|
+61853	|	Nomascus leucogenys	|		|	scientific name	|
+61853	|	White-cheeked Gibbon	|		|	genbank common name	|
+63221	|	Homo neanderthalensis	|		|	synonym	|
+63221	|	Homo sapiens neanderthalensis	|		|	scientific name	|
+66054	|	Presbytis phayrei	|		|	scientific name	|
+66055	|	Presbytis senex	|		|	scientific name	|
+66062	|	Pygathrix avunculus	|		|	synonym	|
+66062	|	Rhinopithecus avunculus	|		|	scientific name	|
+66062	|	Tonkin snub-nosed monkey	|		|	genbank common name	|
+66063	|	Semnopithecus johnii	|		|	synonym	|
+66063	|	Trachypithecus johnii	|		|	scientific name	|
+66063	|	hooded leaf monkey	|		|	genbank common name	|
+66265	|	Saimiri ustus	|		|	scientific name	|
+66265	|	bare-eared squirrel monkey	|		|	genbank common name	|
+69491	|	Lemur sp.	|		|	scientific name	|
+70699	|	Monkey sp.	|		|	synonym	|
+70699	|	unidentified monkey	|		|	scientific name	|
+70814	|	Callicebus personatus	|		|	scientific name	|
+70814	|	masked titi	|		|	genbank common name	|
+70825	|	Cacajao melanocephalus	|		|	scientific name	|
+70825	|	black uakari	|		|	genbank common name	|
+70927	|	Cacajao rubicundus	|		|	scientific name	|
+70928	|	Central American squirrel monkey	|		|	genbank common name	|
+70928	|	Saimiri oerstedii	|		|	scientific name	|
+70928	|	Saimiri oerstedtii	|		|	misspelling	|
+75565	|	Lophocebus	|		|	scientific name	|
+75566	|	Lophocebus aterrimus	|		|	scientific name	|
+75567	|	Cercocebus albigena	|		|	synonym	|
+75567	|	Lophocebus albigena	|		|	scientific name	|
+75567	|	gray-cheeked mangabey	|		|	genbank common name	|
+75568	|	Lophocebus albigena albigena	|		|	scientific name	|
+75569	|	Cercocebus galeritus chrysogaster	|		|	scientific name	|
+75570	|	Cercocebus atys lunulatus	|		|	synonym	|
+75570	|	Cercocebus torquatus lunulatus	|		|	scientific name	|
+78255	|	Callicebus hoffmannsi	|		|	scientific name	|
+78255	|	Hoffmanns's titi	|		|	genbank common name	|
+78274	|	Callicebus personatus nigrifrons	|		|	scientific name	|
+78275	|	Callicebus personatus personatus	|		|	scientific name	|
+78354	|	Saguinus midas midas	|		|	scientific name	|
+78449	|	Macaca cyclopis	|		|	scientific name	|
+78449	|	Taiwan macaque	|		|	genbank common name	|
+78450	|	Presbytis obscura	|		|	scientific name	|
+78450	|	Presbytis obscurus	|		|	misspelling	|
+78451	|	Presbytis melalophos	|		|	scientific name	|
+78451	|	mitred leaf monkey	|		|	genbank common name	|
+78452	|	Presbytis comata	|		|	scientific name	|
+78452	|	grizzled leaf monkey	|		|	genbank common name	|
+78453	|	Presbytis femoralis	|		|	scientific name	|
+78453	|	banded leaf monkey	|		|	genbank common name	|
+78454	|	Saguinus labiatus	|		|	scientific name	|
+78454	|	red-chested mustached tamarin	|		|	genbank common name	|
+78583	|	Lepilemur dorsalis	|		|	scientific name	|
+78583	|	gray-backed sportive lemur	|		|	genbank common name	|
+78584	|	Lepilemur septentrionalis	|		|	scientific name	|
+78584	|	northern sportive lemur	|		|	genbank common name	|
+78866	|	Lepilemur ruficaudatus	|		|	scientific name	|
+78866	|	red-tailed sportive lemur	|		|	genbank common name	|
+81572	|	Hylobates moloch	|		|	scientific name	|
+81572	|	silvery gibbon	|		|	genbank common name	|
+81944	|	Cercocebus torquatus torquatus	|		|	scientific name	|
+83281	|	Propithecus diadema	|		|	scientific name	|
+83281	|	diademed sifaka	|		|	genbank common name	|
+83691	|	Mirza	|		|	scientific name	|
+85699	|	Cacajao calvus calvus	|		|	scientific name	|
+87288	|	Eulemur macaco flavifrons	|		|	scientific name	|
+87289	|	Varecia variegata variegata	|		|	scientific name	|
+88028	|	Semnopithecus	|		|	scientific name	|
+88029	|	Hanuman langur	|		|	common name	|
+88029	|	Presbytis entellus	|		|	synonym	|
+88029	|	Semnopithecus entellus	|		|	scientific name	|
+89593	|	Craniata	|		|	scientific name	|
+89671	|	Galagoides	|		|	scientific name	|
+89672	|	Demidoff's galago	|		|	genbank common name	|
+89672	|	Galago demidoff	|		|	synonym	|
+89672	|	Galago demidovii	|		|	synonym	|
+89672	|	Galagoides demidoff	|		|	scientific name	|
+89672	|	Galagoides demidovii	|		|	synonym	|
+90381	|	Macaca brunnescens	|		|	scientific name	|
+90382	|	Macaca hecki	|		|	scientific name	|
+90383	|	Macaca maura	|		|	scientific name	|
+90383	|	Macaca maurus	|		|	synonym	|
+90383	|	moor macaque	|		|	genbank common name	|
+90384	|	Macaca nigrescens	|		|	scientific name	|
+90385	|	Macaca ochreata	|		|	scientific name	|
+90385	|	booted macaque	|		|	genbank common name	|
+90386	|	Macaca fascicularis philippinensis	|		|	scientific name	|
+90387	|	Macaca nemestrina leonina	|		|	scientific name	|
+90388	|	Macaca nemestrina nemestrina	|		|	scientific name	|
+91950	|	Pan troglodytes vellerosus	|		|	scientific name	|
+98375	|	Presbytis johnii	|		|	scientific name	|
+100223	|	Cercopithecus aterrimus	|		|	scientific name	|
+100224	|	Cercopithecus l'hoesti	|		|	misspelling	|
+100224	|	Cercopithecus lhoesti	|		|	scientific name	|
+100224	|	L'Hoest's monkey	|		|	genbank common name	|
+100475	|	Lepilemur leucopus	|		|	scientific name	|
+100475	|	white-footed sportive lemur	|		|	genbank common name	|
+100487	|	Cercopithecus petaurista	|		|	scientific name	|
+100487	|	lesser white-nosed monkey	|		|	genbank common name	|
+100488	|	Miopithecus ougouensis	|		|	scientific name	|
+100489	|	Cercopithecus mona mona	|		|	scientific name	|
+100754	|	Saguinus sp.	|		|	scientific name	|
+100936	|	Cercopithecus aethiops vervet	|		|	synonym	|
+100936	|	Chlorocebus aethiops vervet	|		|	scientific name	|
+100937	|	Guinea baboon	|		|	genbank common name	|
+100937	|	Papio cynocephalus papio	|		|	synonym	|
+100937	|	Papio hamadryas papio	|		|	synonym	|
+100937	|	Papio papio	|		|	scientific name	|
+100937	|	Papio papio sensu Groves	|		|	equivalent name	|
+101277	|	Nycticebus intermedius	|		|	scientific name	|
+101278	|	Nycticebus pygmaeus	|		|	scientific name	|
+101278	|	pygmy slow loris	|		|	genbank common name	|
+101841	|	Cercopithecus aethiops aethiops	|		|	synonym	|
+101841	|	Chlorocebus aethiops aethiops	|		|	scientific name	|
+102108	|	Cercopithecus pogonias	|		|	scientific name	|
+102108	|	crowned guenon	|		|	genbank common name	|
+102744	|	Saguinus bicolor martinsi	|		|	scientific name	|
+108082	|	Nycticebus sp.	|		|	scientific name	|
+111173	|	Galago gallarum	|		|	scientific name	|
+111173	|	Somali galago	|		|	genbank common name	|
+111174	|	Galago zanzibaricus	|		|	synonym	|
+111174	|	Galagoides zanzibaricus	|		|	scientific name	|
+111174	|	Zanzibar galago	|		|	genbank common name	|
+116962	|	Callicebus sp.	|		|	scientific name	|
+117570	|	Teleostomi	|		|	scientific name	|
+117571	|	Euteleostomi	|		|	scientific name	|
+117571	|	bony vertebrates	|		|	genbank common name	|
+118643	|	Ateles belzebuth chamek	|		|	scientific name	|
+118643	|	Ateles chamek	|		|	synonym	|
+118643	|	Ateles paniscus chamek	|		|	synonym	|
+118643	|	Chamek spider monkey	|		|	genbank common name	|
+118644	|	Ateles belzebuth marginatus	|		|	scientific name	|
+118645	|	Ateles geoffroyi robustus	|		|	scientific name	|
+118647	|	Ateles geoffroyi panamensis	|		|	scientific name	|
+118648	|	Ateles geoffroyi vellerosus	|		|	scientific name	|
+118649	|	Ateles geoffroyi yucatanensis	|		|	scientific name	|
+119628	|	Ateles sp. haplotype Abh9	|		|	scientific name	|
+119629	|	Ateles sp. haplotype Abh10	|		|	scientific name	|
+119630	|	Ateles sp. haplotype Abh11	|		|	scientific name	|
+119631	|	Ateles sp. haplotype Agsubspp. 16	|		|	scientific name	|
+119632	|	Ateles sp. haplotype Afr19	|		|	scientific name	|
+119633	|	Ateles sp. haplotype Afr20	|		|	scientific name	|
+119634	|	Ateles sp. haplotype Afr21	|		|	scientific name	|
+119638	|	Ateles sp. haplotype Abh19	|		|	scientific name	|
+119639	|	Ateles sp. haplotype Agp13	|		|	scientific name	|
+119640	|	Ateles sp. haplotype Afr27	|		|	scientific name	|
+120088	|	Aotus azarae azarae	|		|	synonym	|
+120088	|	Aotus azarai azarai	|		|	scientific name	|
+120089	|	Cebus apella nigritus	|		|	scientific name	|
+120090	|	Cebus apella paraguayanus	|		|	scientific name	|
+120432	|	unclassified Ateles	|		|	scientific name	|
+121123	|	Alouatta sara	|		|	scientific name	|
+121123	|	Bolivian red howler monkey	|		|	genbank common name	|
+122219	|	Hapalemur griseus griseus	|		|	scientific name	|
+122220	|	Hapalemur griseus alaotrensis	|		|	scientific name	|
+122221	|	Hapalemur griseus occidentalis	|		|	scientific name	|
+122222	|	Hapalemur aureus	|		|	scientific name	|
+122222	|	golden bamboo lemur	|		|	genbank common name	|
+122223	|	Hapalemur simus	|		|	scientific name	|
+122223	|	greater bamboo lemur	|		|	genbank common name	|
+122224	|	Eulemur albocollaris	|		|	synonym	|
+122224	|	Eulemur fulvus albocollaris	|		|	scientific name	|
+122225	|	Eulemur fulvus sanfordi	|		|	scientific name	|
+122229	|	Propithecus verreauxi verreauxi	|		|	scientific name	|
+122230	|	Lepilemur edwardsi	|		|	scientific name	|
+122230	|	Milne-Edwards's sportive lemur	|		|	genbank common name	|
+122231	|	Microcebus ravelobensis	|		|	scientific name	|
+122232	|	Microcebus rufus	|		|	scientific name	|
+122232	|	brown mouse lemur	|		|	genbank common name	|
+122245	|	Avahi	|		|	scientific name	|
+122246	|	Avahi laniger	|		|	scientific name	|
+122246	|	woolly lemur	|		|	genbank common name	|
+122247	|	Allocebus	|		|	scientific name	|
+122248	|	Allocebus trichotis	|		|	scientific name	|
+122248	|	hairy-eared dwarf lemur	|		|	genbank common name	|
+122388	|	Saguinus tripartitus	|		|	scientific name	|
+122388	|	golden-mantled tamarin	|		|	genbank common name	|
+122765	|	Trachypithecus cristatus	|		|	scientific name	|
+122765	|	silvered leaf monkey	|		|	genbank common name	|
+126593	|	Megaladapis	|		|	scientific name	|
+126594	|	Megaladapis sp.	|		|	scientific name	|
+129801	|	Ateles belzebuth hybridus	|		|	scientific name	|
+129801	|	Ateles hybridus	|		|	synonym	|
+131567	|	biota	|		|	synonym	|
+131567	|	cellular organisms	|		|	scientific name	|
+132108	|	Avahi occidentalis	|		|	scientific name	|
+132548	|	Colobus guereza kikuyuensis	|		|	scientific name	|
+135486	|	Galago matschiei	|		|	scientific name	|
+135486	|	Matschie's galago	|		|	genbank common name	|
+143283	|	Microcebus myoxinus	|		|	scientific name	|
+143351	|	Microcebus tavaratra	|		|	scientific name	|
+143352	|	Microcebus berthae	|		|	scientific name	|
+143353	|	Microcebus sambiranensis	|		|	scientific name	|
+143354	|	Microcebus griseorufus	|		|	scientific name	|
+147649	|	Cercopithecus preussi	|		|	scientific name	|
+147650	|	Cercopithecus solatus	|		|	scientific name	|
+150249	|	Hylobates sp. TIB-201	|		|	scientific name	|
+161496	|	Cercopithecus erythrogaster	|		|	scientific name	|
+163110	|	Alouatta stramineus	|		|	scientific name	|
+164647	|	Procolobus	|		|	scientific name	|
+164648	|	Colobus badius	|		|	synonym	|
+164648	|	Piliocolobus badius	|		|	synonym	|
+164648	|	Procolobus badius	|		|	scientific name	|
+164648	|	Procolobus badius (Kerr, 1792)	|		|	synonym	|
+164648	|	Simia badius	|		|	synonym	|
+164648	|	Simia badius Kerr, 1792	|		|	synonym	|
+164648	|	red colobus	|		|	common name	|
+164648	|	western red colobus	|		|	genbank common name	|
+164650	|	Trachypithecus geei	|		|	scientific name	|
+164651	|	Trachypithecus pileatus	|		|	scientific name	|
+164929	|	Hylobates concolor leucogyneus	|		|	synonym	|
+164929	|	Hylobates leucogenys leucogenys	|		|	synonym	|
+164929	|	Nomascus leucogenys leucogenys	|		|	scientific name	|
+164929	|	Northern white-cheeked gibbon	|		|	genbank common name	|
+167130	|	Cercopithecus erythrotis	|		|	scientific name	|
+167131	|	Cercopithecus cephus ngottoensis	|		|	scientific name	|
+168015	|	Aotinae gen. sp.	|		|	scientific name	|
+168259	|	Macaca maura x tonkeana	|		|	scientific name	|
+170207	|	Nasalis concolor	|		|	scientific name	|
+170207	|	Pig-tailed langur	|		|	genbank common name	|
+170207	|	Simias concolor	|		|	synonym	|
+171293	|	Macaca hecki x tonkeana	|		|	scientific name	|
+171945	|	Propithecus diadema diadema	|		|	scientific name	|
+171947	|	Propithecus diadema marshi	|		|	scientific name	|
+171949	|	Propithecus diadema perrieri	|		|	scientific name	|
+174597	|	Aotus infulatus	|		|	scientific name	|
+174598	|	Cebus apella apella	|		|	scientific name	|
+174599	|	Cebus apella xanthosternos	|		|	synonym	|
+174599	|	Cebus xanthosternos	|		|	scientific name	|
+174599	|	yellow-breasted capuchin	|		|	genbank common name	|
+179089	|	Macaca fuscata yakui	|		|	scientific name	|
+182248	|	Alouatta palliata mexicana	|		|	scientific name	|
+182249	|	Alouatta palliata coibensis	|		|	scientific name	|
+182250	|	Alouatta palliata palliata	|		|	scientific name	|
+182251	|	Alouatta palliata trabeata	|		|	scientific name	|
+182252	|	Alouatta palliata aequatorialis	|		|	scientific name	|
+182253	|	Alouatta pigra	|		|	scientific name	|
+182254	|	Alouatta seniculus seniculus	|		|	scientific name	|
+182256	|	Alouatta fusca	|		|	synonym	|
+182256	|	Alouatta guariba	|		|	scientific name	|
+182256	|	brown howler monkey	|		|	common name	|
+182256	|	howler monkey	|		|	common name	|
+182257	|	Alouatta belzebul belzebul	|		|	scientific name	|
+183327	|	Ateles fusciceps robustus	|		|	scientific name	|
+183328	|	Alouatta clamitans	|		|	synonym	|
+183328	|	Alouatta guariba clamitans	|		|	scientific name	|
+183511	|	Gorilla gorilla uellensis	|		|	scientific name	|
+185456	|	Hapalemur griseus meridionalis	|		|	scientific name	|
+185457	|	Lepilemur microdon	|		|	scientific name	|
+185458	|	Lepilemur sp. RANO236	|		|	scientific name	|
+185590	|	Lepilemur sp. RANO234	|		|	scientific name	|
+185591	|	Lepilemur sp. RANO235	|		|	scientific name	|
+185596	|	Hapalemur griseus JF2002	|		|	scientific name	|
+185953	|	Megaladapis edwardsi	|		|	scientific name	|
+190117	|	Saimiri sciureus sciureus	|		|	scientific name	|
+192855	|	Cercopithecus ascanius ascanius	|		|	scientific name	|
+192856	|	Cercopithecus ascanius katangae	|		|	scientific name	|
+192857	|	Cercopithecus ascanius schmidti	|		|	scientific name	|
+192858	|	Cercopithecus ascanius whitesidei	|		|	scientific name	|
+192859	|	Cercopithecus cephus cephodes	|		|	scientific name	|
+192860	|	Cercopithecus cephus cephus	|		|	scientific name	|
+192861	|	Cercopithecus mona campbelli	|		|	scientific name	|
+192862	|	Cercopithecus petaurista petaurista	|		|	scientific name	|
+192863	|	Cercopithecus pogonias grayi	|		|	scientific name	|
+192893	|	Cercopithecus petaurista buttikoferi	|		|	scientific name	|
+198114	|	Saimiri sciureus collinsi	|		|	scientific name	|
+198115	|	Alouatta macconelli	|		|	misspelling	|
+198115	|	Alouatta macconnelli	|		|	synonym	|
+198115	|	Alouatta seniculus macconnelli	|		|	scientific name	|
+198627	|	Chiropotes albinasus	|		|	scientific name	|
+198701	|	Callithrix cf. emiliae	|		|	scientific name	|
+198701	|	Mico cf. emiliae	|		|	synonym	|
+198702	|	Callithrix saterei	|		|	scientific name	|
+198702	|	Mico saterei	|		|	synonym	|
+202457	|	Callicebus cupreus	|		|	scientific name	|
+202457	|	Callithrix cuprea	|		|	synonym	|
+202457	|	coppery titi	|		|	genbank common name	|
+202458	|	Chiropotes satanas x albinasus	|		|	scientific name	|
+207598	|	Homo/Pan/Gorilla group	|		|	scientific name	|
+208510	|	Papio cynocephalus x Papio anubis	|		|	scientific name	|
+210166	|	Callicebus lugens	|		|	scientific name	|
+210166	|	Callicebus torquatus lugens	|		|	synonym	|
+211508	|	Papio anubis anubis	|		|	scientific name	|
+217956	|	Callithrix sp. DB-2003	|		|	scientific name	|
+221704	|	Callicebus brunneus	|		|	scientific name	|
+221704	|	brown titi	|		|	genbank common name	|
+222416	|	Javan langur	|		|	genbank common name	|
+222416	|	Trachypithecus auratus	|		|	scientific name	|
+222417	|	Aotus sp. NIM-2003	|		|	scientific name	|
+224329	|	Gray snub-nosed monkey	|		|	genbank common name	|
+224329	|	Pygathrix brelichi	|		|	synonym	|
+224329	|	Rhinopithecus brelichi	|		|	scientific name	|
+230653	|	Macaca nemestrina pagensis	|		|	synonym	|
+230653	|	Macaca pagensis	|		|	scientific name	|
+230653	|	Mentawai macaque	|		|	genbank common name	|
+230833	|	Bolivian titi	|		|	genbank common name	|
+230833	|	Callicebus donacophilus	|		|	scientific name	|
+231953	|	Aotus sp.	|		|	scientific name	|
+236272	|	Microcebus simmonsi	|		|	scientific name	|
+236274	|	Microcebus mittermeieri	|		|	scientific name	|
+236275	|	Microcebus jollyae	|		|	scientific name	|
+236287	|	Lepilemur mitsinjoensis	|		|	scientific name	|
+236287	|	Lepilemur mitsinjonensis	|		|	misspelling	|
+236288	|	Lepilemur seali	|		|	scientific name	|
+244255	|	Macaca nemestrina siberu	|		|	scientific name	|
+255237	|	Cercocebus agilis	|		|	scientific name	|
+255237	|	agile mangabey	|		|	genbank common name	|
+257877	|	Macaca thibetana thibetana	|		|	scientific name	|
+260575	|	Saguinus sp. T1030	|		|	scientific name	|
+261316	|	Aotus sp. PDE-2004	|		|	scientific name	|
+261731	|	Galago alleni gabonensis	|		|	synonym	|
+261731	|	Galago gabonensis	|		|	scientific name	|
+261732	|	Galago granti	|		|	scientific name	|
+261732	|	Galago senegalensis granti	|		|	synonym	|
+261732	|	Galagoides granti	|		|	synonym	|
+261732	|	Galagoides zanzibaricus granti	|		|	synonym	|
+261732	|	Grant's bushbaby	|		|	genbank common name	|
+261733	|	Phaner	|		|	scientific name	|
+261734	|	Phaner furcifer	|		|	scientific name	|
+261734	|	fork-marked lemur	|		|	genbank common name	|
+261735	|	Euoticus	|		|	scientific name	|
+261736	|	Euoticus elegantulus	|		|	scientific name	|
+261736	|	western needle-clawed galago	|		|	genbank common name	|
+261737	|	Perodicticus potto ibeanus	|		|	scientific name	|
+261738	|	Arctocebus	|		|	scientific name	|
+261739	|	Arctocebus calabarensis	|		|	scientific name	|
+261739	|	calabar angwantibo	|		|	genbank common name	|
+261740	|	Loris lydekkerianus nordicus	|		|	synonym	|
+261740	|	Loris tardigradus nordicus	|		|	scientific name	|
+261741	|	Nycticebus bengalensis	|		|	scientific name	|
+263448	|	Cercopithecus wolfi	|		|	scientific name	|
+263448	|	Wolf's monkey	|		|	genbank common name	|
+269772	|	Ateles sp. KO-2004	|		|	scientific name	|
+270538	|	Microcebus sp. EELHDZ M98	|		|	scientific name	|
+270540	|	Microcebus sp. EELHDZ TAD23	|		|	scientific name	|
+270674	|	Microcebus sp. EELHDZ VEV33	|		|	scientific name	|
+270675	|	Microcebus sp. EELHDZ VEV35	|		|	scientific name	|
+271260	|	Indochinese lutung	|		|	genbank common name	|
+271260	|	Trachypithecus germaini	|		|	scientific name	|
+271260	|	Trachypithecus margarita	|		|	synonym	|
+271261	|	Trachypithecus barbei	|		|	scientific name	|
+272114	|	Presbytis comata comata	|		|	scientific name	|
+272115	|	Presbytis melalophos mitrata	|		|	scientific name	|
+272116	|	Semnopithecus entellus hector	|		|	scientific name	|
+272117	|	Semnopithecus entellus priam	|		|	scientific name	|
+272118	|	Trachypithecus auratus auratus	|		|	scientific name	|
+272119	|	Trachypithecus francoisi francoisi	|		|	scientific name	|
+272120	|	Trachypithecus phayrei phayrei	|		|	scientific name	|
+272121	|	Trachypithecus phayrei crepusculus	|		|	scientific name	|
+278713	|	Ateles sp. JPV-2004	|		|	scientific name	|
+280160	|	Chiropotes satanas utahicki	|		|	synonym	|
+280160	|	Chiropotes utahicki	|		|	scientific name	|
+280163	|	Chiropotes israelita	|		|	scientific name	|
+280755	|	Aotus azarae boliviensis	|		|	synonym	|
+280755	|	Aotus azarai boliviensis	|		|	scientific name	|
+280856	|	Hylobates sp. IGL-2004	|		|	scientific name	|
+281404	|	Macaca balantak	|		|	scientific name	|
+281405	|	Macaca balantak x tonkeana	|		|	scientific name	|
+285280	|	Papio sp. Africa-2004	|		|	scientific name	|
+285350	|	Macaca leonina	|		|	scientific name	|
+285350	|	Northern pig-tailed macaque	|		|	genbank common name	|
+285954	|	Callicebus donacophilus donacophilus	|		|	scientific name	|
+285955	|	Pithecia pithecia pithecia	|		|	scientific name	|
+288544	|	Colobus sp. DTG-2004	|		|	scientific name	|
+288892	|	Hylobates sp. AMA-2004	|		|	scientific name	|
+290597	|	Saguinus leucopus	|		|	scientific name	|
+290597	|	silvery-brown bare-face tamarin	|		|	genbank common name	|
+291259	|	Cheirogaleus crossleyi	|		|	scientific name	|
+292213	|	Aotus lemurinus griseimembra	|		|	scientific name	|
+300161	|	Arctocebus aureus	|		|	scientific name	|
+300161	|	golden angwantibo	|		|	genbank common name	|
+300163	|	Loris lydekkerianus	|		|	scientific name	|
+300163	|	gray slender loris	|		|	genbank common name	|
+300166	|	Loris lydekkerianus malabaricus	|		|	scientific name	|
+300166	|	Loris tardigradus malabaricus	|		|	synonym	|
+303484	|	Pygathrix nemaeus cinerea	|		|	scientific name	|
+303485	|	Pygathrix nemaeus nemaeus	|		|	scientific name	|
+303588	|	Campbell's monkey	|		|	genbank common name	|
+303588	|	Cercopithecus campbelli	|		|	scientific name	|
+304409	|	Cercopithecus erythrogaster erythrogaster	|		|	scientific name	|
+304410	|	Cercopithecus campbelli lowei	|		|	scientific name	|
+310352	|	Pygathrix nemaeus nigripes	|		|	synonym	|
+310352	|	Pygathrix nigripes	|		|	scientific name	|
+310932	|	Nycticebus coucang menagensis	|		|	scientific name	|
+310933	|	Nycticebus coucang coucang	|		|	scientific name	|
+310934	|	Nycticebus coucang javanicus	|		|	scientific name	|
+314146	|	Euarchontoglires	|		|	scientific name	|
+314293	|	Anthropoidea	|		|	synonym	|
+314293	|	Simiiformes	|		|	scientific name	|
+314294	|	Cercopithecoidea	|		|	scientific name	|
+314295	|	Hominoidea	|		|	scientific name	|
+314295	|	ape	|		|	common name	|
+314295	|	apes	|		|	common name	|
+322020	|	Megaladapis sp. UA5482	|		|	scientific name	|
+322021	|	Megaladapis sp. UA4823	|		|	scientific name	|
+322022	|	Megaladapis sp. UA4821	|		|	scientific name	|
+322023	|	Megaladapis sp. UA4822	|		|	scientific name	|
+322024	|	Palaeopropithecus	|		|	scientific name	|
+322025	|	Palaeopropithecus sp. UA4466	|		|	scientific name	|
+322026	|	Palaeopropithecus sp. UA6184	|		|	scientific name	|
+322027	|	Palaeopropithecus sp. KPK-2005	|		|	scientific name	|
+325165	|	Nomascus	|		|	scientific name	|
+325166	|	Symphalangus	|		|	scientific name	|
+325167	|	Bunopithecus	|		|	scientific name	|
+325172	|	Colobus sp. MB-2005	|		|	scientific name	|
+327374	|	Nomascus nasutus	|		|	scientific name	|
+330495	|	Cercopithecus mitis albogularis	|		|	scientific name	|
+336983	|	Colobus angolensis palliatus	|		|	scientific name	|
+337210	|	Galagoides orinus	|		|	scientific name	|
+337212	|	Otolemur monteiri	|		|	scientific name	|
+337212	|	silvery greater Galago	|		|	genbank common name	|
+337213	|	Otolemur monteiri monteiri	|		|	scientific name	|
+337214	|	Otolemur monteiri argentatus	|		|	scientific name	|
+339999	|	Mirza zaza	|		|	scientific name	|
+342398	|	Lepilemur sahamalazensis	|		|	scientific name	|
+342399	|	Lepilemur aeeclis	|		|	scientific name	|
+342400	|	Lepilemur randrianasoli	|		|	scientific name	|
+342401	|	Lepilemur ankaranensis	|		|	scientific name	|
+342401	|	Lepilemur septentrionalis ankaranensis	|		|	synonym	|
+342807	|	Brachyteles arachnoides hypoxanthus	|		|	synonym	|
+342807	|	Brachyteles hypoxanthus	|		|	scientific name	|
+343424	|	Saguinus fuscicollis weddelli	|		|	scientific name	|
+343908	|	Goodman's mouse lemur	|		|	genbank common name	|
+343908	|	Microcebus lehilahytsara	|		|	scientific name	|
+356665	|	Saguinus midas niger	|		|	synonym	|
+356665	|	Saguinus niger	|		|	scientific name	|
+356665	|	black-handed tamarin	|		|	common name	|
+356666	|	Saguinus martinsi	|		|	scientific name	|
+361674	|	Aotus brumbacki	|		|	scientific name	|
+371038	|	Rungwecebus	|		|	scientific name	|
+371039	|	Rungwecebus kipunji	|		|	scientific name	|
+373030	|	Colobus guereza matschiei	|		|	scientific name	|
+373031	|	Colobus guereza caudatus	|		|	scientific name	|
+373032	|	Colobus guereza occidentalis	|		|	scientific name	|
+373033	|	Colobus verus	|		|	synonym	|
+373033	|	Procolobus verus	|		|	scientific name	|
+373033	|	Procolobus verus (Van Beneden, 1838)	|		|	synonym	|
+373033	|	olive colobus	|		|	genbank common name	|
+376911	|	Strepsirhini	|		|	synonym	|
+376911	|	Strepsirrhini	|		|	scientific name	|
+376911	|	prosimians	|		|	common name	|
+376912	|	Tarsiiformes	|		|	scientific name	|
+376913	|	Haplorrhini	|		|	scientific name	|
+376915	|	Lemuriformes	|		|	scientific name	|
+376916	|	Chiromyiformes	|		|	scientific name	|
+376917	|	Lorisiformes	|		|	scientific name	|
+376918	|	Aotidae	|		|	scientific name	|
+376919	|	Pitheciidae	|		|	scientific name	|
+378195	|	Colobus vellerosus	|		|	scientific name	|
+378196	|	Colobus vellerosus x angolensis	|		|	scientific name	|
+378517	|	Lepilemur mittermeieri	|		|	scientific name	|
+378850	|	Saimiriinae	|		|	scientific name	|
+378855	|	Atelidae	|		|	scientific name	|
+379532	|	Coquerel's sifaka	|		|	genbank common name	|
+379532	|	Propithecus coquereli	|		|	scientific name	|
+379532	|	Propithecus coquereli (A. Grandidier, 1867)	|		|	authority	|
+379532	|	Propithecus verreauxi coquereli	|		|	synonym	|
+388736	|	Microcebus sp. ANT5.1	|		|	scientific name	|
+392815	|	Chlorocebus	|		|	scientific name	|
+400023	|	Lepilemur sp. hubbardi	|		|	scientific name	|
+402239	|	Avahi unicolor	|		|	scientific name	|
+402239	|	Sambirano woolly lemur	|		|	genbank common name	|
+402244	|	Avahi cleesei	|		|	scientific name	|
+402888	|	Arunachal macaque	|		|	genbank common name	|
+402888	|	Macaca munzala	|		|	scientific name	|
+405039	|	Hylobates syndactylus syndactylus	|		|	synonym	|
+405039	|	Symphalangus syndactylus syndactylus	|		|	scientific name	|
+406788	|	Cross river gorilla	|		|	genbank common name	|
+406788	|	Gorilla gorilla diehli	|		|	scientific name	|
+412750	|	Microcebus bongolavensis	|		|	scientific name	|
+412751	|	Microcebus danfossi	|		|	scientific name	|
+412752	|	Microcebus lokobensis	|		|	scientific name	|
+412758	|	Microcebus sp. Ambongabe	|		|	scientific name	|
+412759	|	Microcebus sp. Bora	|		|	scientific name	|
+412760	|	Microcebus sp. Mahajamba-Est	|		|	scientific name	|
+412761	|	Microcebus sp. Maroakata	|		|	scientific name	|
+413234	|	Aotus sp. Aot1	|		|	scientific name	|
+415757	|	Claire's mouse lemur	|		|	genbank common name	|
+415757	|	Microcebus mamiratra	|		|	scientific name	|
+415977	|	Mirza sp. 001y03	|		|	scientific name	|
+419588	|	Hylobates sp. ECACC MLA144	|		|	scientific name	|
+423449	|	Nomascus concolor jingdongensis	|		|	scientific name	|
+423450	|	Nomascus concolor furvogaster	|		|	scientific name	|
+423451	|	Nomascus leucogenys siki	|		|	scientific name	|
+425245	|	Hylobates sp. PS-2007	|		|	scientific name	|
+425246	|	Papio sp. PS-2007	|		|	scientific name	|
+439030	|	Macaca radiata radiata	|		|	scientific name	|
+445518	|	Pan sp. WO2007026120	|		|	scientific name	|
+449501	|	Dian's tarsier	|		|	genbank common name	|
+449501	|	Tarsius dentatus	|		|	scientific name	|
+449501	|	Tarsius dianae	|		|	synonym	|
+449596	|	Trachypithecus auratus mauritius	|		|	scientific name	|
+458171	|	Lepilemur manasamody	|		|	scientific name	|
+458173	|	Lepilemur otto	|		|	scientific name	|
+460674	|	Chlorocebus pygerythrus pygerythrus	|		|	scientific name	|
+460675	|	Chlorocebus aethiops cynosurus	|		|	synonym	|
+460675	|	Chlorocebus cynosuros	|		|	synonym	|
+460675	|	Chlorocebus cynosurus	|		|	synonym	|
+460675	|	Chlorocebus pygerythrus cynosurus	|		|	scientific name	|
+465717	|	Delacour's langur	|		|	genbank common name	|
+465717	|	Trachypithecus delacouri	|		|	scientific name	|
+465718	|	Laotian langur	|		|	genbank common name	|
+465718	|	Trachypithecus laotum	|		|	scientific name	|
+465719	|	Presbytis leucocephalus	|		|	synonym	|
+465719	|	Trachypithecus leucocephalus	|		|	synonym	|
+465719	|	Trachypithecus poliocephalus	|		|	scientific name	|
+465719	|	White-headed langur	|		|	genbank common name	|
+465719	|	white-headed langur	|		|	common name	|
+475618	|	Propithecus deckenii	|		|	scientific name	|
+475618	|	Van der Decken's Sifaka	|		|	genbank common name	|
+475619	|	Propithecus deckeni coronatus	|		|	synonym	|
+475619	|	Propithecus deckenii coronatus	|		|	scientific name	|
+475619	|	Propithecus verreauxi coronatus	|		|	synonym	|
+477174	|	Otolemur garnettii garnettii	|		|	scientific name	|
+481705	|	Propithecus deckeni deckeni	|		|	synonym	|
+481705	|	Propithecus deckenii deckenii	|		|	scientific name	|
+481705	|	Propithecus verreauxi deckeni	|		|	synonym	|
+491852	|	Procolobus badius badius	|		|	scientific name	|
+491852	|	Procolobus badius badius (Kerr, 1792)	|		|	synonym	|
+491853	|	Piliocolobus badius temminckii	|		|	synonym	|
+491853	|	Procolobus badius temminckii	|		|	scientific name	|
+491853	|	Procolobus badius temminckii (Kuhl, 1820)	|		|	synonym	|
+491853	|	Procolobus temminckii	|		|	synonym	|
+491853	|	Temminck's red colobus	|		|	genbank common name	|
+499232	|	Eastern Gorilla	|		|	genbank common name	|
+499232	|	Gorilla	|		|	common name	|
+499232	|	Gorilla beringei	|		|	scientific name	|
+499232	|	Gorilla beringei beringei	|		|	synonym	|
+499232	|	Gorilla gorilla beringei	|		|	synonym	|
+499232	|	highland gorilla	|		|	common name	|
+499232	|	mountain gorilla	|		|	common name	|
+502961	|	Pongo abelii x pygmaeus	|		|	scientific name	|
+508710	|	Chlorocebus tantalus budgetti	|		|	scientific name	|
+508712	|	Chlorocebus pygerythrus hilgerti	|		|	scientific name	|
+517012	|	Black Colobus	|		|	genbank common name	|
+517012	|	Colobus satanas	|		|	scientific name	|
+517013	|	Colobus satanas satanas	|		|	scientific name	|
+517014	|	Procolobus badius gordonorum	|		|	scientific name	|
+517015	|	Procolobus badius kirkii	|		|	scientific name	|
+517016	|	Procolobus badius oustaleti	|		|	scientific name	|
+517017	|	Procolobus badius parmentieri	|		|	scientific name	|
+517018	|	Procolobus badius pennantii	|		|	scientific name	|
+517019	|	Procolobus badius preussi	|		|	scientific name	|
+517020	|	Procolobus badius rufomitratus	|		|	scientific name	|
+517021	|	Procolobus badius tephrosceles	|		|	scientific name	|
+517022	|	Procolobus badius tholloni	|		|	scientific name	|
+523820	|	Archaeolemur	|		|	scientific name	|
+523821	|	Archaeolemur majori	|		|	scientific name	|
+523822	|	Archaeolemur edwardsi	|		|	scientific name	|
+523824	|	Hadropithecus	|		|	scientific name	|
+523825	|	Hadropithecus stenognathus	|		|	scientific name	|
+542827	|	Rhinopithecus	|		|	scientific name	|
+543559	|	Milne-Edwards sifaka	|		|	genbank common name	|
+543559	|	Propithecus diadema edwardsi	|		|	synonym	|
+543559	|	Propithecus edwardsi	|		|	scientific name	|
+543560	|	Propithecus candidus	|		|	scientific name	|
+543560	|	Propithecus diadema candidus	|		|	synonym	|
+543560	|	Silky sifaka	|		|	genbank common name	|
+548481	|	Microcebus macarthurii	|		|	scientific name	|
+548482	|	Microcebus sp. Anjiahely	|		|	scientific name	|
+554167	|	Red ruffed lemur	|		|	genbank common name	|
+554167	|	Varecia rubra	|		|	scientific name	|
+554167	|	Varecia variegata ruber	|		|	synonym	|
+554167	|	Varecia variegata rubra	|		|	synonym	|
